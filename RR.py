@@ -29,5 +29,11 @@ while(1):
     if(end==True):
         break
 
+
+
 for i in range(0,No_ofprocesses-1):
     print str(WaitingTime[i])
+
+
+
+
